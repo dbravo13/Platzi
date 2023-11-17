@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: cadetblue;
+    color: black;
   
 }
 #Container{
@@ -12,6 +12,10 @@ body{
     margin: 0 auto;
     justify-content: center;
     align-items: center;
+}
 
+#Cabezera{
+    background-color: cadetblue; 
+    color: azure;
 }
 
