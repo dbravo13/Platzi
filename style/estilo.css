@@ -17,5 +17,7 @@ body{
 #Cabezera{
     background-color: cadetblue; 
     color: azure;
+    margin: 0;
+    padding: 0.5em;
 }
 
